@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-26T18:01:17.190Z",
+  "items": {
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-09-26T18:01:14.487Z",
+      "last_pushed_at": "2026-09-26T18:01:14.487Z",
+      "language": "python",
+      "lines": 17
+    }
+  }
+}
