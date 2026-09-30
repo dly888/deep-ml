@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-09-30 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-09-30 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-09-30 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-26 | [solution](problems/0016-feature-scaling-implementation) |
