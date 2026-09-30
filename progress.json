@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:00:56.836Z",
+  "generated_at": "2026-09-30T19:20:47.711Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -141,6 +141,19 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-09-30T19:00:56.967Z",
       "last_pushed_at": "2026-09-30T19:00:56.967Z"
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-09-30T19:20:45.008Z",
+      "last_pushed_at": "2026-09-30T19:20:45.008Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
