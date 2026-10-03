@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:53:11.278Z",
+  "generated_at": "2026-10-03T18:54:35.470Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -348,6 +348,17 @@
       "path": "math/0026-maximum-likelihood-and-map",
       "first_solved_at": "2026-10-03T18:53:11.272Z",
       "last_pushed_at": "2026-10-03T18:53:11.272Z"
+    },
+    "math:16": {
+      "kind": "math",
+      "id": "16",
+      "title": "Eigendecomposition and SVD",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/16",
+      "path": "math/0016-eigendecomposition-and-svd",
+      "first_solved_at": "2026-10-03T18:54:34.851Z",
+      "last_pushed_at": "2026-10-03T18:54:34.851Z"
     }
   }
 }
