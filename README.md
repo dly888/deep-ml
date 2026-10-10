@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 29 problems · 2 labs · 9 math
+**41** solved · 30 problems · 2 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-10-04 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-10-08 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-10-04 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
+| [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-10-10 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-10-03 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-30 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-26 | [solution](problems/0842-standardscaler-fit-and-transform) |
