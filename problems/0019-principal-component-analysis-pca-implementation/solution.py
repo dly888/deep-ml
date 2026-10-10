@@ -27,7 +27,7 @@ def pca(data: np.ndarray, k: int) -> np.ndarray:
 
     for i in range(k):
         col = eigenvectors[:, i]
-        first = np.flatnonzero(np.abs(col) > 1e-10)
+        first = np.flatnonzero(np.abs(col) > 0)
 
         if len(first) > 0 and col[first[0]] < 0:
             eigenvectors[:, i] *= -1
