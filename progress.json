@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T19:00:29.243Z",
+  "generated_at": "2026-10-10T20:45:00.542Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -565,6 +565,19 @@
       "path": "problems/0353-reconstruction-error-from-pca",
       "first_solved_at": "2026-10-10T19:00:29.546Z",
       "last_pushed_at": "2026-10-10T19:00:29.546Z",
+      "language": "python",
+      "lines": 40
+    },
+    "problem:288": {
+      "kind": "problem",
+      "id": "288",
+      "title": "Implement Grid Search",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/288",
+      "path": "problems/0288-implement-grid-search",
+      "first_solved_at": "2026-10-10T20:44:59.957Z",
+      "last_pushed_at": "2026-10-10T20:44:59.957Z",
       "language": "python",
       "lines": 40
     }
