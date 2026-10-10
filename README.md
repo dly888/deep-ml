@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 35 problems · 2 labs · 9 math
+**47** solved · 35 problems · 2 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-10-03 | [solution](math/0017-covariance-and-correlation) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-03 | [solution](math/0024-information-theory-entropy) |
 | [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-09-30 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
+| [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-10-10 | [solution](math/0042-margins-and-soft-margin-svms) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-02 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-02 | [solution](math/0031-regularization-and-generalization) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-03 | [solution](math/0016-eigendecomposition-and-svd) |

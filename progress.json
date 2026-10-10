@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:45:00.542Z",
+  "generated_at": "2026-10-10T22:49:40.074Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -580,6 +580,17 @@
       "last_pushed_at": "2026-10-10T20:44:59.957Z",
       "language": "python",
       "lines": 40
+    },
+    "math:42": {
+      "kind": "math",
+      "id": "42",
+      "title": "Margins and Soft-Margin SVMs",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/42",
+      "path": "math/0042-margins-and-soft-margin-svms",
+      "first_solved_at": "2026-10-10T22:49:39.818Z",
+      "last_pushed_at": "2026-10-10T22:49:39.818Z"
     }
   }
 }
