@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 33 problems · 2 labs · 9 math
+**45** solved · 34 problems · 2 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-10-03 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-30 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-10 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-10-10 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-09-26 | [solution](problems/0842-standardscaler-fit-and-transform) |
 
 ## Labs
