@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T22:49:40.074Z",
+  "generated_at": "2026-10-11T18:34:12.992Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -591,6 +591,17 @@
       "path": "math/0042-margins-and-soft-margin-svms",
       "first_solved_at": "2026-10-10T22:49:39.818Z",
       "last_pushed_at": "2026-10-10T22:49:39.818Z"
+    },
+    "math:44": {
+      "kind": "math",
+      "id": "44",
+      "title": "Class Imbalance and Proper Scoring",
+      "difficulty": "easy",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/44",
+      "path": "math/0044-class-imbalance-and-proper-scoring",
+      "first_solved_at": "2026-10-11T18:34:13.011Z",
+      "last_pushed_at": "2026-10-11T18:34:13.011Z"
     }
   }
 }
