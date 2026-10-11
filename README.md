@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**48** solved · 35 problems · 2 labs · 11 math
+**49** solved · 36 problems · 2 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-27 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-10-09 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-10-04 | [solution](problems/0032-generate-sorted-polynomial-features) |
+| [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-10-11 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-10-10 | [solution](problems/0288-implement-grid-search) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-10-08 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-10-04 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
