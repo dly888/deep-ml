@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 39 problems · 2 labs · 11 math
+**53** solved · 40 problems · 2 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-09-26 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-10-08 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-10-04 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
+| [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-10-12 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-10-10 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
 | [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-09-27 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-10-09 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
