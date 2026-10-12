@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:07:15.713Z",
+  "generated_at": "2026-10-12T21:07:39.686Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -704,6 +704,17 @@
       "path": "math/0036-multivariate-gaussians",
       "first_solved_at": "2026-10-12T16:07:17.736Z",
       "last_pushed_at": "2026-10-12T16:07:17.736Z"
+    },
+    "math:27": {
+      "kind": "math",
+      "id": "27",
+      "title": "Statistical Inference",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/27",
+      "path": "math/0027-statistical-inference",
+      "first_solved_at": "2026-10-12T21:07:42.325Z",
+      "last_pushed_at": "2026-10-12T21:07:42.325Z"
     }
   }
 }
