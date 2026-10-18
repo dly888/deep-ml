@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:55:35.456Z",
+  "generated_at": "2026-10-18T16:00:14.984Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -737,6 +737,17 @@
       "path": "math/0083-type-i-and-type-ii-error-power-and-the-uniform-null",
       "first_solved_at": "2026-10-18T15:55:35.262Z",
       "last_pushed_at": "2026-10-18T15:55:35.262Z"
+    },
+    "math:86": {
+      "kind": "math",
+      "id": "86",
+      "title": "Two-Sample Tests: Pooled t, Welch, and Paired",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/86",
+      "path": "math/0086-two-sample-tests-pooled-t-welch-and-paired",
+      "first_solved_at": "2026-10-18T16:00:14.675Z",
+      "last_pushed_at": "2026-10-18T16:00:14.675Z"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**59** solved · 40 problems · 4 labs · 15 math
+**60** solved · 40 problems · 4 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-02 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-02 | [solution](math/0031-regularization-and-generalization) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-10-12 | [solution](math/0027-statistical-inference) |
+| [Two-Sample Tests: Pooled t, Welch, and Paired](https://www.deep-ml.com/math-problems/86) | medium | 2026-10-18 | [solution](math/0086-two-sample-tests-pooled-t-welch-and-paired) |
 | [Type I and Type II Error, Power, and the Uniform Null](https://www.deep-ml.com/math-problems/83) | medium | 2026-10-18 | [solution](math/0083-type-i-and-type-ii-error-power-and-the-uniform-null) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-10-12 | [solution](math/0028-bayesian-methods) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-03 | [solution](math/0016-eigendecomposition-and-svd) |
