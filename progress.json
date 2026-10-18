@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:09:24.651Z",
+  "generated_at": "2026-10-18T15:55:35.456Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -726,6 +726,17 @@
       "path": "math/0028-bayesian-methods",
       "first_solved_at": "2026-10-12T21:09:23.658Z",
       "last_pushed_at": "2026-10-12T21:09:23.658Z"
+    },
+    "math:83": {
+      "kind": "math",
+      "id": "83",
+      "title": "Type I and Type II Error, Power, and the Uniform Null",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/83",
+      "path": "math/0083-type-i-and-type-ii-error-power-and-the-uniform-null",
+      "first_solved_at": "2026-10-18T15:55:35.262Z",
+      "last_pushed_at": "2026-10-18T15:55:35.262Z"
     }
   }
 }
