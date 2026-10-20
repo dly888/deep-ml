@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:00:14.984Z",
+  "generated_at": "2026-10-20T16:18:28.665Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -748,6 +748,17 @@
       "path": "math/0086-two-sample-tests-pooled-t-welch-and-paired",
       "first_solved_at": "2026-10-18T16:00:14.675Z",
       "last_pushed_at": "2026-10-18T16:00:14.675Z"
+    },
+    "math:87": {
+      "kind": "math",
+      "id": "87",
+      "title": "Chi-Square Tests: Goodness of Fit and Independence",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/87",
+      "path": "math/0087-chi-square-tests-goodness-of-fit-and-independence",
+      "first_solved_at": "2026-10-20T16:18:28.955Z",
+      "last_pushed_at": "2026-10-20T16:18:28.955Z"
     }
   }
 }
